@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Structures And Algorithms**
 
-- 👨‍💻 All of my projects are available at [www.kunwarpratap.dev](www.kunwarpratap.dev)
+- 👨‍💻 All of my projects are available at <a href="https://www.kunwarpratap.dev" target="_blank">www.kunwarpratap.dev</a>
 
 - 💬 Ask me about **React, NextJS and JavaScript**
 
