@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Data Structures And Algorithms**
 
-- 👨‍💻 All of my projects are available at <a href="https://www.kunwarpratap.dev" target="_blank">www.kunwarpratap.dev</a>
+- 👨‍💻 All of my projects are available at <a href="https://kunwarpratap.dev" target="_blank">kunwarpratap.dev</a>
 
 - 💬 Ask me about **React, NextJS and JavaScript**
 
-- 📫 How to reach me **kunwarkudos@gmail.com**
+- 📫 How to reach me <a href="https://kunwarpratap.dev/contact" target="_blank">kunwarpratap.dev/contact</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
