@@ -27,5 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunwar-pratap&show_icons=true&locale=en&layout=compact" alt="kunwar-pratap" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunwar-pratap&show_icons=true&locale=en" alt="kunwar-pratap" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunwar-pratap&" alt="kunwar-pratap" /></p>
