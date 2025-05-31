@@ -1,5 +1,6 @@
-<h1 align="center" >Hi 👋, I'm Kunwar Pratap</h1>
-<h3 align="center">An enthusiastic Web Developer from India</h3>
+<h1 align="center"  >Hi 👋, I'm Kunwar Pratap</h1>
+
+<h3 align="center">An enthusiastic Full-Stack Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunwar-pratap&label=Profile%20views&color=0e75b6&style=flat" alt="kunwar-pratap" /> </p>
 
@@ -7,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://kunwarpratap-dev.vercel.app" target="_blank">kunwarpratap-dev</a>
 
-- 💬 Ask me about **React, NextJS and JavaScript**
+- 💬 Ask me about **MERN Stack and JavaScript**
 
 - 📫 How to reach me <a href="https://kunwarpratap-dev.vercel.app/contact" target="_blank">kunwarpratap-dev.vercel.app/contact</a>
 
