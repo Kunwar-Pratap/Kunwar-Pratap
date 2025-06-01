@@ -2,17 +2,26 @@
 
 <h3 align="center">An enthusiastic Full-Stack Engineer from India</h3>
 
+<h4 align="center">Who codes the web by day and explores Kali Linux by night — blending software craft with ethical hacking passion</h4>
+<br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunwar-pratap&label=Profile%20views&color=0e75b6&style=flat" alt="kunwar-pratap" /> </p>
 
 - 🌱 I’m currently learning **Data Structures And Algorithms**
 
-- 👨‍💻 All of my projects are available at <a href="https://kunwarpratap-dev.vercel.app" target="_blank">kunwarpratap-dev</a>
+- 🌐 Visit my website at <a href="https://kunwarpratap-dev.vercel.app" target="_blank">kunwarpratap-dev</a>
 
-- 💬 Ask me about **MERN Stack and JavaScript**
+- 👨‍💻 All of my projects are available at <a href="https://kunwarpratap-dev.vercel.app/projects" target="_blank">kunwarpratap-dev/projects</a>
 
-- 📫 How to reach me <a href="https://kunwarpratap-dev.vercel.app/contact" target="_blank">kunwarpratap-dev.vercel.app/contact</a>
+### Ask Me About  
+- **MERN Stack**  
+- **JavaScript**  
+- **Ethical Hacking**
+- **Kali Linux**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">How to reach me</h3>
+📫 <a href="https://kunwarpratap-dev.vercel.app/contact" target="_blank">kunwarpratap-dev/contact</a>
+
+<h3 align="left">Connect with me on Linkedin:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kunwar-pratap-0127a9225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunwar-pratap-0127a9225" height="30" width="40" /></a>
 </p>
